@@ -1,0 +1,4 @@
+baseURL = "https://curtain-winwonboo.vercel.app"
+languageCode = "en-us"
+title = "Windaw Curtains Small"
+theme = "hugo-theme-minos"
